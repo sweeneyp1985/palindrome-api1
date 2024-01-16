@@ -1,0 +1,13 @@
+package com.example.palindromeapi.util;
+
+public class StringUtil {
+
+
+    // Private constructor to hide the implicit public one
+    private StringUtil() {
+      
+        throw new UnsupportedOperationException("StringUtil cannot be instantiated");
+    }
+
+
+}
